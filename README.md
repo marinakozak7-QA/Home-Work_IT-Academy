@@ -1,2 +1,2 @@
 # project
-Внесение новых изменений
+Resolve conflict
