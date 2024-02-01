@@ -1,4 +1,13 @@
 {
+  "name": "homework_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file.js"
+  },
+  "author": "Marina Kozak",
+  "license": "ISC",
   "dependencies": {
     "fs-extra": "^11.2.0"
   }
